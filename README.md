@@ -1,28 +1,41 @@
-# flutter_application_api_anime
+# 📱 flutter\_application\_api\_anime
 
 Aplikasi Flutter untuk eksplorasi daftar anime menggunakan API Jikan.
 
-## Fitur
+## ✨ Fitur
 
-- Cari anime berdasarkan judul
-- Lihat detail anime (gambar, sinopsis, skor, jumlah anggota, rating)
-- Tampilan grid responsif
-- UI modern dengan Material 3
+* 🔍 Cari anime berdasarkan judul
+* 📄 Lihat detail anime (gambar, sinopsis, skor, jumlah anggota, rating)
+* 🧱 Tampilan grid responsif
+* 🎨 UI modern dengan Material 3
 
-## Instalasi
+## 🛠️ Instalasi
 
 1. Clone repository ini:
+
    ```sh
    git clone https://github.com/username/flutter_application_api_anime.git
-2.Masuk ke folder proyek:
- 
+   ```
+
+2. Masuk ke folder proyek:
+
+   ```sh
    cd flutter_application_api_anime
-3.flutter pub get
+   ```
 
-  flutter pub get
+3. Install dependensi:
 
-## Menjalankan Aplikasi
-    ```sh
-   flutter run
+   ```sh
+   flutter pub get
+   ```
 
+## ▶️ Menjalankan Aplikasi
+
+Jalankan perintah berikut:
+
+```sh
+flutter run
+```
+
+---
 
