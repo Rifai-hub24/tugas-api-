@@ -38,4 +38,14 @@ flutter run
 ```
 
 ---
+##👤 Identitas Pengembang
+Nama: Muhammad Irfan Rifai
+
+No : 21
+
+Asal Sekolah: SMK Negeri 1 Bantul
+
+Jurusan: Rekayasa Perangkat Lunak (RPL)
+
+
 
