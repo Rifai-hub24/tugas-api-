@@ -1,16 +1,28 @@
 # flutter_application_api_anime
 
-A new Flutter project.
+Aplikasi Flutter untuk eksplorasi daftar anime menggunakan API Jikan.
 
-## Getting Started
+## Fitur
 
-This project is a starting point for a Flutter application.
+- Cari anime berdasarkan judul
+- Lihat detail anime (gambar, sinopsis, skor, jumlah anggota, rating)
+- Tampilan grid responsif
+- UI modern dengan Material 3
 
-A few resources to get you started if this is your first Flutter project:
+## Instalasi
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone repository ini:
+   ```sh
+   git clone https://github.com/username/flutter_application_api_anime.git
+2.Masuk ke folder proyek:
+    ```sh
+   cd flutter_application_api_anime
+3.flutter pub get
+    ```sh
+  flutter pub get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Menjalankan Aplikasi
+    ```sh
+   flutter run
+
+
