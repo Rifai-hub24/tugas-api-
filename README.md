@@ -50,7 +50,7 @@ Jurusan: Rekayasa Perangkat Lunak (RPL)
 
 ## Dokumentasi
 ![image alt](https://github.com/Rifai-hub24/tugas-api-/blob/c332df5140765cffeb931480cffee6f5b95d8587/Screenshot%202025-07-31%20124911.png)
-![image alt]()
+![image alt](https://github.com/Rifai-hub24/tugas-api-/blob/3a4627f9f445d8036e80ace8b502bddeeb74575b/Screenshot%202025-07-31%20125030.png)
 
 
 
