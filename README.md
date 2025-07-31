@@ -15,10 +15,10 @@ Aplikasi Flutter untuk eksplorasi daftar anime menggunakan API Jikan.
    ```sh
    git clone https://github.com/username/flutter_application_api_anime.git
 2.Masuk ke folder proyek:
-    ```sh
+ 
    cd flutter_application_api_anime
 3.flutter pub get
-    ```sh
+
   flutter pub get
 
 ## Menjalankan Aplikasi
